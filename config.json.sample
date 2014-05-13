@@ -1,0 +1,38 @@
+[
+  {
+    "hostType": "bitbucket",
+    "user": "ianmk2",
+    "passwd": "----PASSWORD----",
+    "owners":[
+    	{
+    		"type":"user",
+    		"name":"ianmk2"
+    	},
+    	{
+    		"type":"user",
+    		"name":"ANOTHER-USER-NAME"
+    	},
+    	{
+    		"type":"group",
+    		"name":"ANOTHER-TEAM-NAME"
+    	}
+    ],
+    "to":"/SOME/WHERE/repos_bitbucket"
+  },
+  {
+    "hostType": "github",
+    "user": "ianmk2",
+    "passwd": "----PASSWORD----",
+    "owners":[
+    	{
+    		"type":"user",
+    		"name":"ianmk2"
+    	},
+    	{
+    		"type":"group",
+    		"name":"ANOTHER-ORGANIZATION-NAME"
+    	}
+    ],
+    "to":"/SOME/WHERE/repos_github"
+  }
+]
