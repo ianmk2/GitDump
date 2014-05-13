@@ -10,9 +10,15 @@ If you worry about situation when repository would be deleted, maybe you like th
 
 ## TODO
 [X] Github basic operation(clone, pull) 
+
 [X] Bitbucket basic operation(clone, pull)
+
 [ ] multi thread operation
+
 [ ] submodule update
+
 [ ] error catch
+
 [ ] backup only private repositories option
+
 [ ] regex exclude option
